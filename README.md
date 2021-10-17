@@ -1,4 +1,36 @@
-### Hi there 👋
+## Welcome to my GitHub! 👋
+
+### My name is Laura de Cos, and I'm a full stack developer.
+
+- 📍 Web Development Teacher Assistant at Ironhack
+- 👩‍💻 Ironhack Web Development Bootcamp Alumni
+- 💻 CS50 Harvard University's Introduction to Computer Science
+- 🔍 Background in SEO and Digital Marketing
+- 🎓 Bachelor in Advertising and Public Relations
+- 🌱 Always learning
+- ⚡ Striving towards technical excellence
+- 💖 Code refactoring and clean code
+- 🌍 I love nature, hiking and cycling
+
+## Technologies
+
+- Javascript (ES6)
+- Express
+- Node
+- MongoDB
+- React
+- HTML & CSS
+- SQLite
+- Python
+- C
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradecc&layout=compact)](https://github.com/lauradecc/github-readme-stats)
+
+## Contact
+
+**Want to talk?** I would love to hear from you!
+- 🔗 https://www.linkedin.com/in/laura-de-cos-carrera/
+- 📧 lauradecosdev@gmail.com
 
 <!--
 **lauradecc/lauradecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
