@@ -29,7 +29,7 @@
 ## Contact
 
 **Want to talk?** I would love to hear from you!
-- 🔗 https://www.linkedin.com/in/laura-de-cos-carrera/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/laura-de-cos-carrera/)
 - 📧 lauradecosdev@gmail.com
 
 <!--
