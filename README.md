@@ -2,7 +2,7 @@
 
 ### My name is Laura de Cos, and I'm a full stack developer.
 
-- 📍 Full Stack Developer at Travelport
+- 📍 Full Stack Developer at Tailor Hub
 - 👩‍💻 Ironhack Web Development Bootcamp Alumni
 - 💻 CS50 Harvard University's Introduction to Computer Science
 - 🔍 Background in SEO and Digital Marketing
