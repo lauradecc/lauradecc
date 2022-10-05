@@ -19,6 +19,8 @@
 - Node
 - MongoDB
 - React
+- React Native
+- Next
 - HTML & CSS
 - SQLite
 - Python
