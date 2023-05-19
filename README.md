@@ -26,7 +26,6 @@
 - Python
 - C
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradecc&layout=compact)](https://github.com/lauradecc/github-readme-stats)
 
 ## Contact
 
