@@ -2,7 +2,7 @@
 
 ### My name is Laura de Cos, and I'm a full stack developer.
 
-- 📍 Full Stack Developer at Tailor Hub
+- 📍 Full Stack Developer
 - 👩‍💻 Ironhack Web Development Bootcamp Alumni
 - 💻 CS50 Harvard University's Introduction to Computer Science
 - 🔍 Background in SEO and Digital Marketing
@@ -14,15 +14,28 @@
 
 ## Technologies
 
+- TypeScript
 - Javascript (ES6)
-- Express
-- Node
-- MongoDB
+- Next.js
 - React
+- Node
+- Express
+- MongoDB
+- Mongoose
+- Axios
 - React Native
-- Next
+- Tailwind CSS
+- Storybook
+- Firebase
+- AWS
+- Remix
+- Prisma
+- Highcharts
+- Sanity
+- Cypress
+- Jest
+- SQL
 - HTML & CSS
-- SQLite
 - Python
 - C
 
